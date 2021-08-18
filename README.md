@@ -14,3 +14,5 @@ For this project, students are expected to look at these concepts:
 1. What is source code management
 2. What is Git
 3. What is GitHub
+
+## Collaboration: be up to date
